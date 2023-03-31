@@ -1,0 +1,36 @@
+.form {
+  margin-bottom: 30px;
+}
+
+.input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  width: 160px;
+  height: 20px;
+}
+
+.item {
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.text {
+  display: inline;
+  margin-right: 20px;
+  margin-bottom: 0;
+}
+
+.btn {
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: transparent;
+  padding: 3px 8px;
+  font-size: 14px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.btn:hover {
+  box-shadow: none;
+  background-color: #bbe38f;
+}
